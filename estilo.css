@@ -1,0 +1,23 @@
+.Caja-roja{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+
+}
+
+.Caja-verde{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+.Caja-azul{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+.contenedor{
+    display: flex;
+}
